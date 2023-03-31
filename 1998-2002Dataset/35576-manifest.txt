@@ -1,0 +1,130 @@
+File Manifest for ICPSR 35576
+
+Pew Research Center for the People and the Press. Biennial Media
+Consumption Survey [United States, 1998-2002]. ICPSR35576-v2. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2016-05-26. http://doi.org/10.3886/ICPSR35576.v2
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35576-descriptioncitation.pdf       -       -         -       2016-11-16  -
+
+    35576-manifest.txt                  -       -         -       daily       -
+
+    35576-Documentation-Data_Lead-in.pdf -       -         -       2016-05-26  5a559578f2a364ecfcf04f0d5d1ef042
+
+    35576-Questionnaire.pdf             -       -         -       2016-05-26  0ebd90dfb5e7f3cb6bf65e85ec1ede7b
+
+
+DS0001 Biennial Media Consumption Survey 1998
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35576-0001-Codebook.pdf             -       -         -       2016-05-26  4ab22fb509bb42aedef4d025044afe41
+
+    35576-0001-Data.dta                 -       3,002     232     2016-05-26  184900c55b5f58938b8a27a6124641a1
+
+    35576-0001-Data.rda                 -       3,002     232     2016-05-26  1fb822e83b34bb53704163ce6a8531ac
+
+    35576-0001-Data.sav                 -       3,002     232     2016-05-26  65f5bfbec008e00d0dcb6b830e10796d
+
+    35576-0001-Data.stc                 -       3,002     232     2016-05-26  5199ce350cc4610525d98264330a90aa
+
+    35576-0001-Data.tsv                 -       3,002     232     2016-05-26  b8eaa9b681063ea3a5f8e6c2b93f8755
+
+    35576-0001-Data.txt                 279     3,002     232     2016-05-26  151737dd1577e1873b7f232a3dd91762
+
+    35576-0001-Data.xls                 -       3,002     232     2016-05-26  c454af8728aa1fbe7d303713443a877c
+
+    35576-0001-Setup.dct                -       -         -       2016-05-26  ab519add394b62510417251c9badc9fe
+
+    35576-0001-Setup.do                 -       -         -       2016-05-26  633eacfd65b0e828705af04f2d80d7ff
+
+    35576-0001-Setup.sas                -       -         -       2016-05-26  373cb729310a4ed989b608240d0b0ce9
+
+    35576-0001-Setup.sps                -       -         -       2016-05-26  08b6dac6aa135af3c346a05a75682bf5
+
+    35576-0001-Supplemental_syntax.do   -       -         -       2016-05-26  2d33bcaf9ebd908bedac0c67d9a84bf4
+
+    35576-0001-Supplemental_syntax.sas  -       -         -       2016-05-26  a5d201e15f48b57db61263b8b7b55658
+
+
+DS0002 Biennial Media Consumption Survey 2000
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35576-0002-Codebook.pdf             -       -         -       2016-05-26  8501df06b7beba837336b25abff61877
+
+    35576-0002-Data.dta                 -       3,142     189     2016-05-26  bb3a90ef53facacdbd229ba699c8b6eb
+
+    35576-0002-Data.rda                 -       3,142     189     2016-05-26  c4f2f6d65c655f9f3f4964756fc1ae74
+
+    35576-0002-Data.sav                 -       3,142     189     2016-05-26  783ecb8d0a937c7aeca3cfbc4d687805
+
+    35576-0002-Data.stc                 -       3,142     189     2016-05-26  46a3ab24c34761aced56c2c8c2cc4bda
+
+    35576-0002-Data.tsv                 -       3,142     189     2016-05-26  e1d9541e832b5671fa24f0bdbbd8a672
+
+    35576-0002-Data.txt                 359     3,142     189     2016-05-26  0916b98beaa77d103e09ca57243ca78f
+
+    35576-0002-Data.xls                 -       3,142     189     2016-05-26  9684eb847218933ff195e6dfcfa24d60
+
+    35576-0002-Setup.dct                -       -         -       2016-05-26  9903fb3f51246c81071b191f536c14dc
+
+    35576-0002-Setup.do                 -       -         -       2016-05-26  af0b56859d0d871324ec10026f73747f
+
+    35576-0002-Setup.sas                -       -         -       2016-05-26  61ce2556744120a3c307e7e0d4050946
+
+    35576-0002-Setup.sps                -       -         -       2016-05-26  0e87f7babf5d8cfbeac53daa188937fe
+
+    35576-0002-Supplemental_syntax.do   -       -         -       2016-05-26  9166657026861e4b5344004e6adbc397
+
+    35576-0002-Supplemental_syntax.sas  -       -         -       2016-05-26  7c2088672d634ce36eb8ae2ab25e572d
+
+
+DS0003 Biennial Media Consumption Survey 2002
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    35576-0003-Codebook.pdf             -       -         -       2016-05-26  807e0bb5f619cf8476a613fbb3669f96
+
+    35576-0003-Data.dta                 -       3,002     376     2016-05-26  5a986e07da3110a1b974538e5ae0579b
+
+    35576-0003-Data.rda                 -       3,002     376     2016-05-26  b438da4a31d21fda1ce8eebd14ba0bbb
+
+    35576-0003-Data.sav                 -       3,002     376     2016-05-26  b829c71171a740ea8581d4d9207512de
+
+    35576-0003-Data.stc                 -       3,002     376     2016-05-26  41a82c5dbabe10b70da60d03b0a9cfe4
+
+    35576-0003-Data.tsv                 -       3,002     376     2016-05-26  504d49392b6c3ed595d29dafe0d14daa
+
+    35576-0003-Data.txt                 766     3,002     376     2016-05-26  740093cd58f44e30d441ef8d70c9dc66
+
+    35576-0003-Data.xlsx                -       3,002     376     2016-05-26  f39b51e14cfe9a3f23b08fba8127018e
+
+    35576-0003-Setup.dct                -       -         -       2016-05-26  159d85dab8a19aebee0baa272b6783f2
+
+    35576-0003-Setup.do                 -       -         -       2016-05-26  a62cc296da70ece36ca0b92fe3642433
+
+    35576-0003-Setup.sas                -       -         -       2016-05-26  663e58381810adce9d46f84925ef994b
+
+    35576-0003-Setup.sps                -       -         -       2016-05-26  0d88234e8c8e12c04631c94a5f063893
+
+    35576-0003-Supplemental_syntax.do   -       -         -       2016-05-26  ab28e0055019a01f33c7142510348789
+
+    35576-0003-Supplemental_syntax.sas  -       -         -       2016-05-26  4a42a9fac7d5a01c3f633e7d40c04b03
+
+
+Version History
+
+2016-05-26 Data Lead-in documentation was added to highlight subjects and
+variables related to arts and culture.
