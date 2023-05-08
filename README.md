@@ -2,8 +2,7 @@
 An attempt to find whether consumption of certain forms of media is a predictor of political views.
 
 # Definitions
-We are defining polarization as ideological consistency. In this case, whether Democrats are more consistently liberal and Republicans are consistently conservative
-See following article. We use the questions provided as a measure of ideological consistency. https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/
+We are defining polarization as ideological consistency or how consistently liberal or conservative a survey respondant is (see following article). We use the questions provided as a measure of ideological consistency. https://www.pewresearch.org/politics/2014/06/12/section-1-growing-ideological-consistency/
 
 # Reasoning
 Ideally, if our model accurately predicts that, with certain features, the political party more accurately than previous years, then media is definitely a driving force behind views. However, our current model only predicts based on survey data from 2014 and does not take into account the past.
